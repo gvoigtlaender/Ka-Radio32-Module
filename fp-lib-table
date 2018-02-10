@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "KA RADIO modules")(type KiCad)(uri "$(KIPRJMOD)")(options "")(descr ""))
+  (lib (name ESP32-footprints-Lib)(type KiCad)(uri "$(KIPRJMOD)/ESP32-Footprints/ESP32-footprints-Lib.pretty")(options "")(descr ""))
+)
